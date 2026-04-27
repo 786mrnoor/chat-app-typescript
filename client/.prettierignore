@@ -1,0 +1,8 @@
+node_modules
+build
+dist
+*.html
+public
+package-lock.json
+package.json
+.gitignore

@@ -12,7 +12,7 @@ function RegisterPage() {
 
         <p className="text-center">
           Already have account ?
-          <Link to="/email" className="font-semibold hover:text-primary">
+          <Link to="/login" className="font-semibold hover:text-primary">
             Login
           </Link>
         </p>

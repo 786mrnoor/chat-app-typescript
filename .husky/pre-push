@@ -1,2 +1,2 @@
-cd client && npm run build
-# && cd ../server && npm run type-check
+cd client && npm run build 
+cd ../server && npm run type-check

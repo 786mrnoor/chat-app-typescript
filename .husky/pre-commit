@@ -3,5 +3,5 @@ cd client && npx lint-staged --quiet
 cd ..
 
 # Run lint-staged for the server
-# cd server && npx lint-staged --quiet
-# cd ..
+cd server && npx lint-staged --quiet
+cd ..
